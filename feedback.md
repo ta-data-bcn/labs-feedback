@@ -77,6 +77,8 @@ Reference: [Parallelization](https://github.com/ta-data-bcn/lab-parallelization)
 ### Web Scraping
 Reference: [Web Scraping](https://github.com/ta-data-bcn/lab-web-scraping)
 
+Eva - General - The exercise about displaying information of the next 25 hackathon events has an incorrect URL as the website doesn't show the kind of information that's being asked. 
+
 ## Week 4
 ### Stats foundations
 Reference: [Stats foundations](https://github.com/ta-data-bcn/lab-statistics-foundations)
