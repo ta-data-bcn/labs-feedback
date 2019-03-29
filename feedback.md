@@ -126,6 +126,7 @@ Reference: [Intro to scipy](https://github.com/ta-data-bcn/lab-intro-to-scipy)
 
 ### Hypothesis testing
 Reference: [Hypothesis testing](https://github.com/ta-data-bcn/lab-hypothesis-testing)
+Claudia - General - We need to have a challenge with an hypothesis that is rejected in the one-sided test but accepted in the two sided. This way students understand better the difference between the two types.
 
 ### Storytelling and data visualization
 Reference: [Storytelling and data visualization](https://github.com/ta-data-bcn/lab-storytelling-data-visualization)
