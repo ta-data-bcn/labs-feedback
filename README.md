@@ -1,6 +1,6 @@
-# LABS | February 2019
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-## How to give feedback
+# LABS | February 2019
 
 ### Format:
 Author - Type of comment - Comments
