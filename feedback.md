@@ -135,7 +135,7 @@ Eva - Typo - In challenge-1.ipynb, there is a typo in the definition of the pair
 
 Eva - General - In the data-labs repo, solutions are included. It would be better if the solutions were not visible for students.  
 
-Eva - General - In challenge-1.ipynb and challenge-2.ipynb, explanations about when to reject the null hypothesis talk about p-values but do not relate them to a certain confidence level. 
+Eva - General - In challenge-1.ipynb and challenge-2.ipynb, explanations about when to reject the null hypothesis talk about p-values but do not relate them to a certain confidence level. I think that this can be confusing for students.  
 
 ### Storytelling and data visualization
 Reference: [Storytelling and data visualization](https://github.com/ta-data-bcn/lab-storytelling-data-visualization)
