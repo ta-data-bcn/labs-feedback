@@ -180,6 +180,7 @@ Reference: [Data Cleaning](https://github.com/ta-data-bcn/lab-data-cleaning-bonu
 
 ### Intro to ML
 Reference: [Intro to ML](https://github.com/ta-data-bcn/lab-intro-to-ml)
+
 Adria - General - The insights we are expected to provide as MD are already written in the lab.
 
 ### Feature Extraction
