@@ -148,3 +148,7 @@ Reference: [Two Sample Hypothesis Tests](https://github.com/ta-data-bcn/lab-two-
 
 ### Plotting multiple data series
 Reference: [Plotting multiple data series](https://github.com/ta-data-bcn/lab-plotting-multiple-data-series)
+
+## Week 5
+### Intro to ML
+Adria - The insights we are expected to provide as MD are already written in the lab.
