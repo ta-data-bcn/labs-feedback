@@ -149,6 +149,38 @@ Reference: [Two Sample Hypothesis Tests](https://github.com/ta-data-bcn/lab-two-
 ### Plotting multiple data series
 Reference: [Plotting multiple data series](https://github.com/ta-data-bcn/lab-plotting-multiple-data-series)
 
-## Week 5
+## Week 6
+### Time Series
+Reference: [Time Series](https://github.com/ta-data-bcn/lab-time-series)
+
+### Survival Analysis
+Reference: [Survival Analysis](https://github.com/ta-data-bcn/lab-survival-analysis)
+
+### Introduction to recommender systems
+Reference: [Introduction to recommender systems](https://github.com/ta-data-bcn/lab-intro-recommender-systems)
+
+### Recommender Deep Dive
+Reference: [Recommender Deep Dive](https://github.com/ta-data-bcn/lab-recommender-deepdive)
+
+### Write a Medium article
+Reference: [Write a Medium article](https://github.com/ta-data-bcn/lab-medium-article)
+
+### Recommender Deep Dive
+Reference: [Feedback on projects](https://github.com/ta-data-bcn/lab-feedback-on-others-project)
+
+## Week 7
+### Machine Learning World
+Reference: [Machine Learning World](https://github.com/ta-data-bcn/lab-machine-learning-world)
+
+### Interactive Visualization
+Reference: [Interactive Visualization](https://github.com/ta-data-bcn/lab-interactive-visualization)
+
+### Data Cleaning
+Reference: [Data Cleaning](https://github.com/ta-data-bcn/lab-data-cleaning-bonus-challenge)
+
 ### Intro to ML
-Adria - The insights we are expected to provide as MD are already written in the lab.
+Reference: [Intro to ML](https://github.com/ta-data-bcn/lab-intro-to-ml)
+Adria - General - The insights we are expected to provide as MD are already written in the lab.
+
+### Feature Extraction
+Reference: [Feature Extraction](https://github.com/ta-data-bcn/lab-supervised-learning-feature-extraction)
