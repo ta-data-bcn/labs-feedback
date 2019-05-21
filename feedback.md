@@ -165,7 +165,7 @@ Reference: [Recommender Deep Dive](https://github.com/ta-data-bcn/lab-recommende
 ### Write a Medium article
 Reference: [Write a Medium article](https://github.com/ta-data-bcn/lab-medium-article)
 
-### Recommender Deep Dive
+### Feedback On Projects
 Reference: [Feedback on projects](https://github.com/ta-data-bcn/lab-feedback-on-others-project)
 
 ## Week 7
